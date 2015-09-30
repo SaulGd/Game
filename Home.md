@@ -8,6 +8,7 @@ Survival through upgrading your ship and improving the abilities of an ever grow
 - Character design
 - Crew management
 - Ship systems management
+
 ##Specifications
 ###Strategic View
 This will be the entry point for the player where the user can view all high level attributes of the player’s ship. From here they can select destinations of which 
