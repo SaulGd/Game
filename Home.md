@@ -16,7 +16,7 @@ Initial attributes:
 From this level of play, the player can remodel their ship and improve the attributes should they have the resource and technological knowledge.
 Attributes:
 - [Room Design](https://github.com/SaulGd/Game/wiki/Room Design)
-- Tech Level
+- [Technology Level](https://github.com/SaulGd/Game/wiki/Technology Level)
 - [Crew Management](https://github.com/SaulGd/Game/wiki/Crew Management)
 - Resources
 
