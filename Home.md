@@ -6,6 +6,8 @@ Game is a game which combines RTS with Rogue-Like elements through three separat
 ## Game Goal
 Survival through upgrading your ship and improving the abilities of an ever growing crew. An element of cooperative play will be inherent in the operational level with the Tactical and Strategic being more of a single player style.
 
+Part of making progress will require solving puzzles.
+
 ## Specifications
 
 ### Strategic View
