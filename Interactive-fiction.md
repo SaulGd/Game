@@ -1,5 +1,5 @@
 _Status: proposal._
-_If accepted continue_
+_If accepted continue, expand on this page_
 
 Employ [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction) for planetary exploration and puzzle solving.
 Player can interact using standard words, or words hinted in the story text.
