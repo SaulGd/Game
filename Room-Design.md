@@ -28,7 +28,7 @@ Allows further increased speed level.
 Accommodates 1 member.
 Allows base level of power to activated systems.
 ###Reactor Level 2
->Accommodates 3 member.
+Accommodates 3 member.
 Allows increased level of power to activated systems.
 ###Reactor Level 3
 Accommodates 9 member.
