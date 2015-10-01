@@ -7,6 +7,10 @@
 - Story-boarding
   - [Twinery](http://twinery.org/)
 
+##System Design
+###Game Engine
+[FIFE](https://github.com/fifengine/fifengine)
+
 ## Textual development
 
 For all things textual, the most versatile way!
