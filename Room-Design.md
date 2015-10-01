@@ -1,4 +1,5 @@
 #Summary
+Each ship will have a base set of rooms. These rooms will fulfill a specific ship function and some can depend on others. Having the room accommodated by crew will increase the ability of the room's function. Without power the room will not function. Ship types can have special rooms which play on the strength of that [ship's type](https://github.com/SaulGd/Game/wiki/Ship Type).
 #Room Types
 ##Support Modules
 ###Cockpit
@@ -10,11 +11,6 @@ Allows control of up to tier 2 Movement, Offensive, Defensive and Support Module
 ###Command Center
 Accommodates 15 to 30 crew members.  
 Allows control of up to tier 3 Movement, Offensive, Defensive and Support Modules.  
-##Offensive Modules
-
-##Defensive Modules
-
-##Support Modules
 ###Engine Level 1
 Accommodates 1 member.  
 Allows base speed level.  
