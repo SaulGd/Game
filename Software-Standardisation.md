@@ -1,13 +1,20 @@
-- Graphics
-- Computational Workings
-- Music
-- Image Creation
 - Project Management
   (see [Textual development - Task organisation](#task-organisation) )
 - Story-boarding
   - [Twinery](http://twinery.org/)
 
-##System Design
+##World Design  
+###Stories
+###Characters
+###Races
+###Galaxies
+
+##Content Design  
+- Music
+- Image Creation
+Sprites vs Voxels?  
+
+##System Design  
 ###Game Engine
 [FIFE](https://github.com/fifengine/fifengine)
 
