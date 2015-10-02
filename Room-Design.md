@@ -4,7 +4,7 @@ Each ship will have a base set of rooms.
 These rooms will fulfill a specific ship function and some can depend on others.
 Having the room accommodated by crew will increase the ability of the room's function.
 Without power the room will not function.
-Ship types can have special rooms which play on the strength of that [ship's type](Ship-Type.md).
+Ship types can have special rooms which play on the strength of that [ship's type](Ship-Type).
 
 #Room Types
 
