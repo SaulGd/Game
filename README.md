@@ -1,2 +1,4 @@
 # Game
-Test Repository for the game idea.
+
+- [text](text) -- text based information (story, characters, mechanics description, etc).
+- media -- non-text files, like images and models.
