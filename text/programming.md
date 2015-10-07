@@ -38,3 +38,12 @@ There is also a third group for developing the original game and extensions.
 To preserve and focus the limited resource, reuse any readily available components.
 
 # Candidates
+
+Engine     | Core language | Extensions language
+-----------|---------------|---------------------
+Spring RTS |               |
+Blender    |               |
+Torque 3d  |               |
+Panda 3d   |               |
+Ogre       |               |
+id Tech 4  |               |
